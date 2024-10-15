@@ -1,0 +1,41 @@
+Fruit,Weight (grams),Color,Diameter (cm)
+Apple,150,Light Green,7.0
+Apple,160,Dark Green,6.8
+Apple,145,Red,6.5
+Apple,155,Yellow Green,7.1
+Apple,170,Dark Red,7.2
+Apple,140,Light Green,6.6
+Apple,165,Yellow Green,7.0
+Apple,158,Dark Green,7.3
+Apple,148,Light Red,6.9
+Apple,172,Dark Red,7.4
+Apple,150,Light Green,7.2
+Apple,162,Dark Green,7.0
+Apple,155,Light Green,7.1
+Apple,168,Dark Red,7.5
+Apple,140,Yellow Green,6.4
+Apple,160,Light Green,6.7
+Apple,150,Red,7.3
+Apple,175,Dark Red,7.5
+Apple,145,Yellow Green,6.8
+Apple,170,Dark Green,7.1
+Orange,180,Light Orange,8.5
+Orange,190,Dark Orange,8.8
+Orange,175,Light Orange,8.3
+Orange,185,Orange,9.0
+Orange,170,Yellow Orange,8.2
+Orange,195,Dark Orange,9.1
+Orange,182,Light Orange,8.7
+Orange,178,Orange,8.6
+Orange,187,Dark Orange,9.0
+Orange,165,Yellow Orange,8.1
+Orange,192,Dark Orange,8.9
+Orange,175,Light Orange,8.4
+Orange,185,Orange,8.8
+Orange,180,Light Orange,8.5
+Orange,170,Yellow Orange,8.3
+Orange,190,Dark Orange,9.2
+Orange,183,Light Orange,8.6
+Orange,178,Orange,8.4
+Orange,189,Dark Orange,9.1
+Orange,165,Yellow Orange,8.2
