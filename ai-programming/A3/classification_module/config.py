@@ -16,7 +16,3 @@ DataConfigsImages = {
     "num_workers": 4,
     "data_path": "./data"
 }
-
-DataConfigTabular = {
-    "csv_data_path": "./data/ObesityDataSet_raw_and_data_sinthetic.csv"
-}
